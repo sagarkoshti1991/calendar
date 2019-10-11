@@ -1,6 +1,6 @@
-package com.sagar.test.web;
+package com.sagar.spring.calendar.web;
 
-import com.sagar.test.dao.StudentDAO;
+import com.sagar.spring.calendar.dao.StudentDAO;
 
 public class Hello {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.sagar.test.dao;
+package com.sagar.spring.calendar.dao;
 
 import java.util.List;
 

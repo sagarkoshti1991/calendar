@@ -1,4 +1,4 @@
-package com.sagar.test.spring;
+package com.sagar.spring.calendar;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
